@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: #eff3ff;
+    background-color: #c7e278;
 }
 
 .container {
@@ -23,6 +23,7 @@ body {
     padding: 30px 20px;
     box-shadow: 0 20px 30px rgba(0, 0, 0, 0.15);
     border-radius: 10px;
+    cursor: pointer;
 }
 
 #card img {
